@@ -1,6 +1,13 @@
 [![en](https://img.shields.io/badge/language-english-green.svg)](https://github.com/FabrizioVal)&nbsp; </div>
 
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=675f9f&text=¡Bienvenido!&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=51&descAlignY=66)
+
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZVgvRFsFbTmHfDPblxkHdpHvHZQjxmPSTdvKxlkwhhVrPQLzSTtxHKgtdLVLMNXXrZjV">
+        <img src="https://img.shields.io/badge/Gmail-fffdfc?style=flat-square&logo=gmail" alt="Gmail" style="width: 8%; height: 8%;">
+    </a>
+</div>
 
 <h2 align="left"> Hola, que gusto verte 👋 </h2>
 
