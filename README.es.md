@@ -21,4 +21,4 @@ añadir contador de visitas abajo de todo
 
 Este read.me todavia esta en construccion 👍
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false&animation=blink)
+
