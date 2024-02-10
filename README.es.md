@@ -4,16 +4,26 @@
 
 <h2 align="left"> Hola, que gusto verte 👋 </h2>
 
+<table>
+  <tr>
+    <td>
 
 * Soy Fabrizio Vallone.<br>
 * Vivo en Argentina <img src="https://github.com/FabrizioVal/FabrizioVal/blob/main/argentina.png" width="15"/>.<br> 
 * Estoy aprendiendo diseño web.<br> 
-* Estudiante de tecnico electronico. <br>
+* Estudiante de técnico electrónico. <br>
 * Apunto a ser un programador full-stack.<br> 
-* Lenguajes: Español-Ingles.<br>
-* Me gustan mucho los gatos 
+* Lenguajes: Español-Inglés.<br>
+* Me gustan mucho los gatos.<br>
 
-    
+    </td>
+    <td>
+
+  <img src="https://github.com/FabrizioVal/FabrizioVal/blob/main/coffe%20catoo.jpg" width="200"/>
+
+    </td>
+  </tr>
+</table>
 
 ### Lenguajes con los cuales programo:
 
