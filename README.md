@@ -46,11 +46,13 @@
 
 ### Other technologies I work with:
 
+<a href="https://"><img src="https://img.shields.io/badge/React-38dce8?style=for-the-badge&logo=React&logoColor=ffffff" alt="React"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Tailwind_css-3cbbc7?style=for-the-badge&logo=tailwind+css&logoColor=white" alt="Tailwind css"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Node.js-3b991f?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Mongo_DB-27750f?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Tailwind_css-3cbbc7?style=for-the-badge&logo=tailwind+css&logoColor=white" alt="Tailwind css"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Mqtt-620d66?style=for-the-badge&logo=mqtt&logoColor=white" alt="Mqtt"></a>
 <a href="https://"><img src="https://img.shields.io/badge/iot-blue?style=for-the-badge&logo=bluetooth&logoColor=white" alt="iot"></a>
+
 
 &nbsp;
 
