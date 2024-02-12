@@ -56,7 +56,7 @@
 
 &nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioVal&layout=donut&theme=tokyonight&ver=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioVal&layout=donut&theme=tokyonight)
 
 &nbsp;
 
