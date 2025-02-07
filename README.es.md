@@ -18,10 +18,10 @@
 * Soy Fabrizio Vallone.<br>
 * Vivo en Argentina <img src="https://github.com/FabrizioVal/FabrizioVal/blob/main/argentina.png" width="15"/>.<br> 
 * Estoy aprendiendo diseño web.<br> 
-* Estudiante de técnico electrónico. <br>
+* Soy técnico electrónico. <br>
 * Apunto a ser un programador full-stack.<br> 
 * Lenguajes: Español-Inglés.<br>
-* Me gustan mucho los gatos.<br>
+* Puede que me gusten mucho los gatos.<br>
 
     </td>
     <td>
@@ -35,6 +35,7 @@
 ### Lenguajes con los cuales programo:
 
 <a href="https://"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=ffffff" alt="Javascript"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=ffffff" alt="Typescript"></a>
 <a href="https://"><img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=ffffff" alt="C"></a>
 <a href="https://"><img src="https://img.shields.io/badge/c%2B%2B-007ec6?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></a>
 
