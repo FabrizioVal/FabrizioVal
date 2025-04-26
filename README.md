@@ -17,10 +17,10 @@
 
 * I'm Fabrizio Vallone.<br>
 * I live in Argentina <img src="https://github.com/FabrizioVal/FabrizioVal/blob/main/argentina.png" width="15"/>.<br> 
-* Currently, I'm learning web designing.<br> 
+* Passionate about web design and creating user-centered experiences.<br> 
+* Growing full-stack developer focused on building scalable and efficient applications.<br>
 * Electronics technician. <br>
-* Looking forward to being a full-stack developer.<br> 
-* Languages: Spanish-English.<br>
+* Fluent in Spanish and English.<br>
 * Maybe I like cats quite a lot.<br>
 
     </td>
