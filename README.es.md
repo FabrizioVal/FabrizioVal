@@ -17,10 +17,10 @@
 
 * Soy Fabrizio Vallone.<br>
 * Vivo en Argentina <img src="https://github.com/FabrizioVal/FabrizioVal/blob/main/argentina.png" width="15"/>.<br> 
-* Estoy aprendiendo diseño web.<br> 
+* Apasionado por el diseño web y la creación de experiencias centradas en el usuario.<br> 
+* Desarrollador full-stack en crecimiento enfocado en construir aplicaciones escalables y eficientes.<br>
 * Soy técnico electrónico. <br>
-* Apunto a ser un programador full-stack.<br> 
-* Lenguajes: Español-Inglés.<br>
+* Fluido en español e ingles.<br>
 * Puede que me gusten mucho los gatos.<br>
 
     </td>
