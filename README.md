@@ -55,12 +55,6 @@
 <a href="https://"><img src="https://img.shields.io/badge/iot-blue?style=for-the-badge&logo=bluetooth&logoColor=white" alt="iot"></a>
 
 
-&nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioVal&layout=donut&theme=tokyonight)
-
-&nbsp;
-
 <div align="center">
   
 ![alt-text](https://github.com/FabrizioVal/FabrizioVal/blob/main/footer.gif)
